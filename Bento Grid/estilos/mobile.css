@@ -120,7 +120,6 @@ p {
     }
     
         .item4 > img {
-            display: block;
             width: 100%;
             margin: 24px 0px;
         }

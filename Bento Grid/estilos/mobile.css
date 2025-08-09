@@ -157,12 +157,12 @@ p {
             width: 65%;
         }
 
-        .item6 > h2 {
+        .item6 > div > h2 {
             text-align: start;
             font-size: 46px;
         }
 
-        .item6 > p {
+        .item6 > div > p {
             padding-top: 10px;
         }
 
